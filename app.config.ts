@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'sxwukai.com',
+    description: '博客',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
@@ -23,7 +23,7 @@ export default defineAppConfig({
       },
       navigation: true, // possible value are : true | false
       alignment: 'center', // possible value are : 'none' | 'left' | 'center' | 'right'
-      message: 'Follow me on' // string that will be displayed in the footer (leave empty or delete to disable)
+      message: '晋ICP备2020014539号-2' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
       twitter: 'nuxtlabs',
